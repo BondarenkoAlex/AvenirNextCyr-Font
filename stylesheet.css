@@ -7,7 +7,7 @@
 		url('font/AvenirNextCyr-BoldItalic/AvenirNextCyr-BoldItalic.eot?#iefix') format('embedded-opentype'),
 		url('font/AvenirNextCyr-BoldItalic/AvenirNextCyr-BoldItalic.woff') format('woff'),
 		url('font/AvenirNextCyr-BoldItalic/AvenirNextCyr-BoldItalic.ttf') format('truetype');
-	fКont-weight: bold;
+	font-weight: bold;
 	font-style: italic;
 }
 
